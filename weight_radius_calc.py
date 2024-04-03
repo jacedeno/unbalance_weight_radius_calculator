@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Title of the app
-st.title('Unbalance weight/radius calculator')
+st.title('Unbalance weight/radius calculator by Jose Cedeno')
 
 # User inputs for the reference conditions
 st.header('Reference Conditions')
